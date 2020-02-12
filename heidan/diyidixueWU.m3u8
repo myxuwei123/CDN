@@ -4,7 +4,7 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:12
 #EXTINF:11.052722,
-http://qiniu.guazige.cn/diyidixue5000.png
+http://qiniu.guazige.cn/diyidixue5000.ts
 #EXTINF:10.010011,
 https://ae01.alicdn.com/kf/He194de4e3c184395b66e8094bbce6c66w.png
 #EXTINF:10.010011,
@@ -14,7 +14,7 @@ https://ae01.alicdn.com/kf/Hc98e274cf7c94ed380f030dda03b35ffN.png
 #EXTINF:10.010011,
 https://ae01.alicdn.com/kf/H54fb628f53d04553a4499ce18c6840e45.png
 #EXTINF:7.590922,
-http://qiniu.guazige.cn/diyidixue5005.png
+http://qiniu.guazige.cn/diyidixue5005.ts
 #EXTINF:10.010000,
 https://ae01.alicdn.com/kf/H551b39401d874f9bb416a88ca9ab632fx.png
 #EXTINF:6.423089,
@@ -26,7 +26,7 @@ https://ae01.alicdn.com/kf/H331a07540f134280936f083417a237f6q.png
 #EXTINF:2.585922,
 https://ae01.alicdn.com/kf/H6548474f603247c39e8367bffa48526bw.png
 #EXTINF:8.049711,
-http://qiniu.guazige.cn/diyidixue5011.png
+http://qiniu.guazige.cn/diyidixue5011.ts
 #EXTINF:6.881878,
 https://ae01.alicdn.com/kf/Heeeda80048d7443da8b1bbfc45b5bb24D.png
 #EXTINF:2.419089,
@@ -526,9 +526,9 @@ https://ae01.alicdn.com/kf/Hc2ded7a90f004fd19d5ae0011907c35dV.png
 #EXTINF:9.968289,
 https://ae01.alicdn.com/kf/H0f7cd704c4d84644a35e4ab0b66f7bceC.png
 #EXTINF:9.968289,
-http://qiniu.guazige.cn/diyidixue5261.png
+http://qiniu.guazige.cn/diyidixue5261.ts
 #EXTINF:9.968300,
-http://qiniu.guazige.cn/diyidixue5262.png
+http://qiniu.guazige.cn/diyidixue5262.ts
 #EXTINF:1.793467,
 https://ae01.alicdn.com/kf/Hc71d6ca28bec42fe9e5feea749cb7c22g.png
 #EXTINF:4.129122,
@@ -734,7 +734,7 @@ https://ae01.alicdn.com/kf/H8011ddcde1cd4e7c890489cb0aa3850dq.png
 #EXTINF:3.795456,
 https://ae01.alicdn.com/kf/H5d4e2a34621f4e7fb730367c67a6aad4G.png
 #EXTINF:9.968300,
-http://qiniu.guazige.cn/diyidixue5365.png
+http://qiniu.guazige.cn/diyidixue5365.ts
 #EXTINF:2.127133,
 https://ae01.alicdn.com/kf/H5352d7dcc71142579189690d47cf4b589.png
 #EXTINF:1.251244,
